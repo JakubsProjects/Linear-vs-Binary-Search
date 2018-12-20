@@ -1,0 +1,7 @@
+Welcome to Linear vs Binary Search.
+The way this program works, is it asks the user for many numbers as input " 1 2 3..." and so on. User can enter as many as he/she pleases.
+Next the program asks the user which value he/she would like to search for. Once a value is entered it displays how many comparisons each
+algorithm did before finding the user-desired value. Structure here used is an array (and as we know has finite amount of space), but does
+not have a space problem thanks to a function called "GrowArray(...)". 
+
+It is interesting to compare different search algorithms in real time.
